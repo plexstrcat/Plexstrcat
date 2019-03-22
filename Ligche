@@ -92,7 +92,7 @@ K200.R00=function(){var d=2;while(d!==1){switch(d){case 2:return{K:function(s){v
 <ul class="menu"><li class="first leaf"><a href="/" title="">ARENAVISION</a></li>
 <li class="leaf active-trail"><a href="/guide" class="active-trail active">EVENTS GUIDE</a></li>
 <li class="expanded"><a href="/acestream1">AV 1-10</a><ul class="menu"><li class="first leaf"><a href="http://arenavision.cc/1?fedcccvx" title="">ArenaVision 1</a></li>
-<li class="leaf"><a href="http://arenavision.cc/?svdc" title="">ArenaVision 2</a></li>
+<li class="leaf"><a href="http://arenavision.cc/2?svdc>http://arenavision.cc/02?svdc" title="">ArenaVision 2</a></li>
 <li class="leaf"><a href="http://arenavision.cc/3?wfefwesdw" title="">ArenaVision 3</a></li>
 <li class="leaf"><a href="http://arenavision.cc/4?fweessfvdcvswsx" title="">ArenaVision 4</a></li>
 <li class="leaf"><a href="http://arenavision.cc/5?owdilnwlkm" title="">ArenaVision 5</a></li>
