@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-	<last_update>03-04-2019 21:02:13</last_update>
-	<categories>
-		<categoria>Basketball</categoria>
-		<items>20</items>
-	</categories>
-	<categories>
-		<categoria>Soccer</categoria>
-		<items>97</items>
-	</categories>
+
+{"last_update":"03-04-2019 21:02:13","categories":[{"categoria":"Basketball","items":"20"},{"categoria":"Soccer","items":"97"}]}
 	
