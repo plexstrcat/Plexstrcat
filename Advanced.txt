@@ -1,0 +1,14 @@
+name="Buffer Kodi 18"
+section="yes"
+url="https://stva.zriel.ga/wizard/txt/Buffer-leia.txt"
+icon="https://stva.zriel.ga/wizard/imagenes/buffer.png" 
+fanart="https://stva.zriel.ga/wizard/imagenes/fanart.jpg"
+description="Kodi 18 Leia"
+
+
+name="Buffer Kodi 17"
+section="yes"
+url="https://stva.zriel.ga/wizard/txt/Buffer-krypton.txt"
+icon="https://stva.zriel.ga/wizard/imagenes/buffer.png" 
+fanart="https://stva.zriel.ga/wizard/imagenes/fanart.jpg"
+description="Kodi 17 Krypton"
